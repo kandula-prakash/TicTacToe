@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.exe
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.deps.json
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.dll
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\bin\Debug\netcoreapp3.1\TicTacToeGameDemo.pdb
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.dll
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.pdb
+C:\Users\prakash kandula\source\repos\TicTacToeGameDemo\TicTacToeGameDemo\obj\Debug\netcoreapp3.1\TicTacToeGameDemo.genruntimeconfig.cache

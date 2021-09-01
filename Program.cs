@@ -6,7 +6,7 @@ namespace TicTacToeGameDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("welcome to tic tac toe game");
         }
     }
 }
